@@ -27,7 +27,7 @@ This project is a simple **Spring Boot** application demonstrating how to upload
 ### 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/photoz-springboot-upload.git
+git clone https://github.com/AzizSfaihi/photoz-springboot-upload.git
 cd photoz-springboot-upload
 ```
 
